@@ -11,7 +11,7 @@ https://github.com/stzupa/Calculadora.frontend
 Analía Rojas
 <br>
 https://github.com/analiarojas2900/Calculadora.frontend
-<br
+<br>
 
 Para ejecutar la calculadora idealmente ejecutala desde un live Server. Si no, ejecuta el HTML directamente. De cualquier modo funcionará
 <br>
